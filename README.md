@@ -1,2 +1,2 @@
-# MegCup-2022-
+# MegCup-2022
 python cal.py
